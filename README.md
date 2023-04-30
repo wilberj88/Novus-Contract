@@ -32,3 +32,11 @@ Enums: sum types
 StorageMap: special type for save key-value pairs inside storage block.
 StorageVec: store more than one value in sigle data structure where each value is assigned and index and can only storage values of the same type
 
+Sway Standard Library:
+Addres: type-safe wrapper around the primitive b256 type. Never refers to a deployed smart contract.
+ContractID: type-safe wrapper around the primitive b256 type. deterministic identifier analogous to a contract`s address in the EVM.
+Indentity: type is a enum that allows handle both address & contractID types. Use for access control.
+Result: type for returning and propaging error. If it is ok, returning, if not, propaging error.
+
+
+
