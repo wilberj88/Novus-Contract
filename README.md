@@ -26,7 +26,7 @@ Build the contract: terminal: cd counter contract, forc build
 Create a Wallet: https://github.com/FuelLabs/forc-wallet#forc-wallet Instalarlo + Vincularlo con el Fuelup component + Initialize + Create account + Find address of the wallet "forc wallet list" + Deploy to test + Put the keys + Find the signature
 Deploying: 1) Install Forc-wallet to sign and deploy contracts form CLI; 2) Get test tokens; 3) Deploy the contract
 
-Advanced Types:
+Advanced Types: https://fuellabs.github.io/sway/v0.33.0/book/basics/blockchain_types.html
 Structs: grouping of types (example Car with color, wheels, engine...)
 Enums: sum types
 StorageMap: special type for save key-value pairs inside storage block.
