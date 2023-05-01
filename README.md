@@ -38,5 +38,6 @@ ContractID: type-safe wrapper around the primitive b256 type. deterministic iden
 Indentity: type is a enum that allows handle both address & contractID types. Use for access control.
 Result: type for returning and propaging error. If it is ok, returning, if not, propaging error.
 
-
+MarketPlace Contract Setup: https://github.com/FuelLabs/sway
+Se crea carpeta, en ella se crea el "forc new sway-store-contract". El código queda entre los archivos main.sw y sway_store.sw. Parámetros de productos, usuarios, compras y errores.
 
