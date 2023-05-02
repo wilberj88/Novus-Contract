@@ -25,6 +25,7 @@ VSC: 1) Install de VSC extension for sway; 2) en la carpeta src el archivo main.
 Build the contract: terminal: cd counter contract, forc build
 Create a Wallet: https://github.com/FuelLabs/forc-wallet#forc-wallet Instalarlo + Vincularlo con el Fuelup component + Initialize + Create account + Find address of the wallet "forc wallet list" + Deploy to test + Put the keys + Find the signature
 Deploying: 1) Install Forc-wallet to sign and deploy contracts form CLI; 2) Get test tokens; 3) Deploy the contract
+https://fuellabs.github.io/sway/v0.37.0/book/forc/plugins/forc_client/forc_deploy.html
 
 Advanced Types: https://fuellabs.github.io/sway/v0.33.0/book/basics/blockchain_types.html
 Structs: grouping of types (example Car with color, wheels, engine...)
