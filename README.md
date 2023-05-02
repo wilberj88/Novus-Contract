@@ -1,6 +1,6 @@
 # Novus-Contract
 STACKS:
-1) Sway: 
+1) Sway: Sway Book + Fuel Lab Book + Fuel Labs
 
 
 
