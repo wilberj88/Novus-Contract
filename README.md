@@ -42,3 +42,5 @@ Result: type for returning and propaging error. If it is ok, returning, if not, 
 MarketPlace Contract Setup: https://github.com/FuelLabs/sway
 Se crea carpeta, en ella se crea el "forc new sway-store-contract". El código queda entre los archivos main.sw y sway_store.sw. Parámetros de productos, usuarios, compras y errores.
 
+Front End:
+https://fuelbook.fuel.network/master/quickstart/frontend.html
